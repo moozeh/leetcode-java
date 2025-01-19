@@ -1,4 +1,4 @@
-package org.moozeh.study_4;
+package org.moozeh;
 
 /**
  * Definition for singly-linked list.
